@@ -25,7 +25,7 @@
 ## 📫 Connect with Me
 - 🌐 [GitHub Profile](https://github.com/Safwan197)  
 - ✉️ Email: safwanirfan67@gmail.com  
-- 💼 LinkedIn: *(add your link if you have one)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-safwan-8273b8327
 
 ---
 
