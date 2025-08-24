@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Safwan 👋
 
-<!--
-**Safwan197/Safwan197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Graduate** from Sir Syed University of Engineering and Technology (SSUET), Karachi, Pakistan.  
+💻 Passionate about **Java, Python, and Databases**.  
+🚀 Currently exploring **Web Development, Data Structures, and Machine Learning**.  
+📚 Love to learn, build projects, and share knowledge.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- Programming: **Java, Python, SQL**
+- Databases: **MS SQL Server**
+- Web: **HTML, CSS, JavaScript (beginner)**
+- Others: **Git & GitHub, Problem Solving**
+
+---
+
+## 📌 Current Focus
+- Building hands-on projects in **Java & Python**  
+- Learning **Full Stack Development**  
+- Exploring **AI & Machine Learning**  
+
+---
+
+## 📫 Connect with Me
+- 🌐 [GitHub Profile](https://github.com/Safwan197)  
+- ✉️ Email: **safwanirfan67@gmail.com** (replace with yours)  
+- 💼 LinkedIn: *(add your link if you have one)*  
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect.*  
