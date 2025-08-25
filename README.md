@@ -1,6 +1,6 @@
 # Hi there, I'm Safwan 👋
 
-🎓 **Software Engineering Graduate** from Sir Syed University of Engineering and Technology (SSUET), Karachi, Pakistan.  
+🎓 **Software Engineering Student** 
 💻 Skilled in **Java** and passionate about growing as a **Python Developer**.  
 🚀 Currently exploring **AI & Machine Learning** along with the basics of **HTML & CSS**.  
 📚 A curious learner who enjoys solving problems, building projects, and expanding knowledge.  
