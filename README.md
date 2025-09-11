@@ -8,7 +8,7 @@
 ---
 
 ## 🔧 Skills & Tools
-- Programming: **Java (Core & OOP), Python (Beginner Developer Path)**  
+- Programming: **Java (Core & OOP), Python (OOPS + NumPy)**  
 - Databases: **SQL, MongoDB**  
 - Web: **HTML, CSS (Beginner)**  
 - Others: **Problem Solving, Communication, Strong Learning Ability**  
