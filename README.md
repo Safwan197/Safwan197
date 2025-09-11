@@ -25,8 +25,9 @@
 ---
 
 ## 🏆 Certifications
+- **Cybersecurity Certification** – Coursera
+- **Python Crash Course Certification** – Coursera   
 - **AI Certification** – Coursera  
-- **Cybersecurity Certification** – Coursera  
 - **Communication Skills Certification** – MOOCs  
 
 ---
