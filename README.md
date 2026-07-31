@@ -166,7 +166,9 @@
 
 📧 **Email:** **[safwanirfan67@gmail.com](mailto:safwanirfan67@gmail.com)**
 
-💼 **LinkedIn:** *https://www.linkedin.com/safwan282*
+💼 **LinkedIn:** *www.linkedin.com/in/safwan282
+
+*
 
 ---
 
