@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Muhammad Safwan
 
-### 💻 Software Engineering Student | Aspiring Backend Developer | Data Analysis Enthusiast
+### 💻 Software Engineering Student | Aspiring Backend Developer | AI/ML Enthusiast
 
 *"Learning by building real-world software and solving practical problems."*
 
